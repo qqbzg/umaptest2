@@ -1,0 +1,6 @@
+framework module sayHello {
+  umbrella header "sayHello.h"
+
+  export *
+  module * { export * }
+}
